@@ -2,3 +2,5 @@
 
 ## Cambio de la rama artista
 ![Resultado del cambio](Integrante3_foto.png)
+
+![Cambio de Título](img/mititulo.png)
